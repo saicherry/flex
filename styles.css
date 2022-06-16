@@ -1,0 +1,29 @@
+.containter{
+    display: flex;
+    border: 5px solid #5c86da;
+     height: 50vh;
+    flex-wrap: wrap-reverse; 
+}
+
+.item{
+    background-color: red;
+    border: 5px solid #36411e;
+    margin: 12px;
+    width: 111px;
+    height: 111px;
+}
+
+
+.item1{
+    align-self: center;
+
+}
+    /* flex-grow: 3; */
+
+
+.item2{
+    /* flex-grow: 2; */
+    align-self: center;
+    
+ 
+}
